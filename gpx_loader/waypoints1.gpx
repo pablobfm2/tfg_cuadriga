@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cuadriga" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Ruta de ejemplo</name>
+    <trkseg>
+      <trkpt lat="36.721280" lon="-4.421318">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="36.721286" lon="-4.421399">
+        <ele>50.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>New file 1</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>New file 1</name>
+    <trkseg>
+      <trkpt lat="36.71551767455007" lon="-4.490298924255768">
+        <ele>51.44709857618517</ele>
+      </trkpt>
+      <trkpt lat="36.71550874990439" lon="-4.490192786336706">
+        <ele>52.41259694667683</ele>
+      </trkpt>
+      <trkpt lat="36.715469481452274" lon="-4.490253648639737">
+        <ele>51.91160201023446</ele>
+      </trkpt>
+      <trkpt lat="36.71546115177745" lon="-4.490200950792001">
+        <ele>52.35703861806605</ele>
+      </trkpt>
+      <trkpt lat="36.71543556777223" lon="-4.490245484184413">
+        <ele>51.991697323163784</ele>
+      </trkpt>
+      <trkpt lat="36.71542902302531" lon="-4.490200950792001">
+        <ele>52.35703861806605</ele>
+      </trkpt>
+      <trkpt lat="36.715408793804144" lon="-4.490216537479796">
+        <ele>52.229919965588984</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
