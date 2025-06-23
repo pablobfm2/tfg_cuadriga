@@ -1,1 +1,1 @@
-Este es el workspace que se encuentra actualmente en el NUC de Cuadriga
+Esta es la carpeta /src del workspace que se encuentra actualmente en el NUC de Cuadriga
